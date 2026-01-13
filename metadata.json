@@ -1,0 +1,8 @@
+{
+  "name": "Testisavustaja AI",
+  "description": "Ääniohjattu testiavustaja, joka luo reaaliaikaista raporttia havaintojesi perusteella.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
